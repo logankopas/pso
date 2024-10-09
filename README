@@ -1,0 +1,20 @@
+Particle Swarm Optimizer
+
+This program tests a particle swarm optimizer on the Rastrigin function.
+
+Install requirements (recommended to use virtualenv or conda environment):
+```
+pip install -r requirements.txt
+```
+
+Run program:
+```
+python main.py
+```
+
+Arguments can be found via:
+```
+python main.py --help
+```
+
+Note: If the `--plot` option is provided, image files will be created in the tmp/ directory.
